@@ -14,16 +14,6 @@ to manage all the shops.
 
 - - - - -
 
-## Screenshots 
-
-![Laravel Shops Google Maps](https://laraveldaily.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-11-at-10.58.07-AM.png)
-
-- - - - -
-
-![Laravel Shops Google Maps Autocomplete Address](https://laraveldaily.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-11-at-11.00.12-AM.png)
-
-- - - - -
-
 ## How to use
 
 - Clone the repository with __git clone__
